@@ -15,7 +15,7 @@ jobs:
         env:
           POSTGRESQL_USERNAME: docker
           POSTGRESQL_PASSWORD: docker
-          POSTGRESQL_DATABASE: api-solid-pg
+          POSTGRESQL_DATABASE: find-a-friend-pg
 
     steps:
       - uses: actions/checkout@v3
