@@ -113,7 +113,7 @@ The application has the following rules.
 
 ## 📄 License
 
-Este projeto é protegido pela Licença MIT License.
+This project is protected by the MIT License.
 
 
  ## 💻 Reference
